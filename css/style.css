@@ -2,10 +2,11 @@
 
 body{
   height: 5000px;
+  padding: 50px;
 }
 
-h1{
-
+.jumbotron{
+  background: blue;
 }
 
 .block{
@@ -48,6 +49,11 @@ section{
   border: 1px solid black;
 }
 
+.glyphicons{
+  background: black;
+
+}
+
 @media screen and (max-width: 768px){
   .one{
     border-radius: 50%;
@@ -56,5 +62,6 @@ section{
 
   .two{
     background: black;
+    border-radius: 25%;
   }
 }
