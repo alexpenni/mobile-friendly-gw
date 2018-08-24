@@ -1,1 +1,5 @@
 @import url("../fonts/glyphicons-halflings-regular.woff2");
+
+body{
+  padding: 20px;
+}
